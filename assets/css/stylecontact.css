@@ -13,6 +13,7 @@ input, textarea {
     border: 1px solid #dddddd;
     width: 575px;
     margin-top: 3px;
+    margin-bottom: 10px;
  
 }
 
@@ -38,7 +39,7 @@ label {
     color: #ffffff;
     font-size: 14px;
     overflow: auto;
-    margin-top: -3px;
+    margin-top: 10px;
 }
 
 /* highlighting boxes when in use */
