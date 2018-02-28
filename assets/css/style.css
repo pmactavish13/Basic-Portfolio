@@ -180,3 +180,9 @@ footer {
     margin-bottom: 0;
     border-top: 8px solid #4aaaa5;
 }
+
+img {
+    size: 100%;
+    width: 280px;
+    height: 180px;
+}
